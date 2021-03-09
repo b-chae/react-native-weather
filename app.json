@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Load current weather depending on location",
+    "githubUrl": "https://github.com/b-chae/react-native-weather"
   }
 }
